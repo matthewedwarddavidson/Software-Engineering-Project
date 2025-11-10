@@ -11,11 +11,11 @@ Program to help Relationship Managers match investment ideas to clients
 ## Test User Accounts
 To test the system please use the following logins for each user type
 ### RM
-- freddie@freddiefaulkner.co.uk
+- test@testuser.co.uk
 - mypassword123
 ### IC
-- freddie@freddiefaulkner.co.uk
-- goonerfred03
+- test@testuser.co.uk
+- password123
 
 ## Development Instructions
 
